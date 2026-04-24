@@ -52,6 +52,7 @@ body {
     /* logo/brand name (dinglemart) */
     .logo {
       color: white;
+      font-size: 30px;
       font-weight: bold;
     }
 
